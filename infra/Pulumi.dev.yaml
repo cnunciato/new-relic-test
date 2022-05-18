@@ -1,0 +1,4 @@
+config:
+  grocery-list:branch: finished
+  grocery-list:repo: cnunciato/new-relic-test
+  grocery-list:service_instance_count: "1"
